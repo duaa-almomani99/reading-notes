@@ -10,3 +10,14 @@ which remote url should i use
 * clonning with ssh URLs : ssh URLs provide access to get repository via ssh , asecure protocol to use these URLs
 
 you must generate an SSH keypair on your computer and add puplic key to your gethup 
+
+Showing Your Remotes
+To see which remote servers you have configured, you can run the git remote command.
+It lists the shortnames of each remote handle you’ve specified
+ If you’ve cloned your repository, you should at least see origin — that is the default name Git gives to the server you cloned from
+ 
+ You can also specify -v, which shows you the URLs that Git has stored for the shortname to be used when reading and writing to that
+ remote
+ 
+ 
+A
