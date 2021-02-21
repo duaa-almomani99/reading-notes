@@ -1,37 +1,17 @@
-## Welcome to GitHub Pages
-
-You can use the [editor on GitHub](https://github.com/duaa-almomani99/reading-notes-1/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/duaa-almomani99/reading-notes-1/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+# reading-notes-1
+Lab: 02a - Learning Markdown
+# class-1-learning-markdown 
+## growth mindset 
+### what is the growth mindset is 
+it is to describe the underlying beliefs people have about learning and intelligence. When students believe they can get smarter, they understand that effort makes them stronger   
+and it will make you be more creativity and allow  you  to set a higher goals and be more achievement . you shold do your best to have agroth mind not a fixed mind.... there is alot of difference betwwen (growth mind set and the fixed mind ) i will show most of them to you 
+* if you have a growth mind you should not avoid challenges and 
+ you should do more effort if you really want to reach to your goals and 
+you shold learn from critisim and not ignored them its a way to learn something new 
+* try to be inspired by success of other and not seeing their success as athread to you .
+how to keep my self in growth mind ?
+* i will always try to  challenging my self by trying somthing new to me😁 
+* not be afraid of making mistake (its normal to happen)😃
+* success of others will not annoying me ( i should learn more from them ) 😄
+as Albert Einstein said 
+> It’s not that I’m so smart, it’s just that I stay with problems longer
