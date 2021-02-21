@@ -1,4 +1,4 @@
-# reading-notes-1
+# reading-notes
 Lab: 02a - Learning Markdown
 # class-1-learning-markdown 
 ## growth mindset 
